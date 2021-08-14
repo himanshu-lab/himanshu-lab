@@ -2,6 +2,7 @@
 <h3 align="center">Enthusiastic Towards Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-lab&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-lab" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 - 👨‍💻 All of my projects are available at [https://bit.ly/3xc8APG](https://bit.ly/3xc8APG)
 
