@@ -1,5 +1,4 @@
-## 👋 नमस्ते (Namaste), I am [Himanshu Singh](https://bit.ly/3xc8APG)
-<h1 align="center">Hi 👋, I'm Himanshu Singh</h1>
+<h1 align="center">👋 नमस्ते (Namaste), I am Himanshu Singh</h1>
 <h3 align="center">Enthusiastic Towards Technologies</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu-lab&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu-lab" /> </p>
